@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Me
+Hey there! 
+I’m doing my bachelor in computer science in SRH Leipzig. I’m really to AI and AI ethics — fascinated by both what we can build and the responsibility that comes with it.
+I also mess around with game and website development, as I love games myself, it is quite nice to try to build something I have always enjoyed doing in my free time.
+What I´m up to: AI, AI Ethics, Game mechanics and probably learning 3 new things at once.
 
-<!--
-**luccamoura101/luccamoura101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you want to chat about projects or collaborate on something interesting, hit me up!
 
-Here are some ideas to get you started:
+## Languages and Tools
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,github,git,python" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+## Portfolio
+Being worked on
+
+## Socials
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucca_mourarantes/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:luccamoura101@gmail.com)
