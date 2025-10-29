@@ -7,7 +7,7 @@ What I´m up to: AI, AI Ethics, Game mechanics and probably learning 3 new thing
 If you want to chat about projects or collaborate on something interesting, hit me up!
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,github,git,python" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,github,git,python, bash" />
 
 ## Learning
 <img src="https://skillicons.dev/icons?i=html,css,js" />
