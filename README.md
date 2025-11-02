@@ -10,7 +10,7 @@ If you want to chat about projects or collaborate on something interesting, hit 
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,github,git,python,bash" />
 
 ## Learning
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js, rust" />
 
 ## Portfolio
 Being worked on
