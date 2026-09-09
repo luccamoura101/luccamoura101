@@ -18,3 +18,4 @@ Being worked on
 ## Socials
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucca_mourarantes/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:luccamoura101@gmail.com)
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucca-moura-arantes-236900283/)
