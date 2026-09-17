@@ -1,5 +1,5 @@
 ## About Me
-Computer Science Undergraduate
+Computer Science Undergraduate /
 IEEE Srh University Leipzig 
 
 If you want to chat about projects or collaborate on something interesting, hit me up!
